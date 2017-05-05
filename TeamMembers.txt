@@ -1,0 +1,18 @@
+Anas Alnayef    117260
+Saeed Entezari  118048
+
+
+
+************************** Refrences for Exercise 01: **************************
+
+**For calculating the centroid and area, The following libraries were used:
+https://developers.google.com/maps/documentation/android-api/utility/
+
+How to Make Android Apps 23___ Google Maps and markers
+https://www.youtube.com/watch?v=8ADb5bNOFHE
+
+http://stackoverflow.com/questions/18440823/how-do-i-calculate-the-center-of-a-polygon-in-google-maps-android-api-v2
+
+http://stackoverflow.com/questions/28838287/calculate-the-area-of-a-polygon-drawn-on-google-maps-in-an-android-application
+
+***********************************************************************************************
